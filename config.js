@@ -13,5 +13,5 @@ const  CONFIG  =  {
     mess : 'Anh biết mà :)) ok iêm anh qua liền á ' ,
     messDesc : 'Nhấn vào ok để ib liền cho anh nè " ,
     btn Chấp nhận : 'Oki' ,
-    messLink : 'https://github.com/callmepazuzu/pazuzu'//https://www.facebook.com/messages/t/100075447270628
+    messLink : 'https://github.com/zukahai/Confess-Crush'//https://www.facebook.com/messages/t/100075447270628
 }
